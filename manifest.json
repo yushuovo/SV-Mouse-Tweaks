@@ -1,0 +1,15 @@
+{
+  "Name": "SV Mouse Tweaks",
+  "Author": "ayushua",
+  "Version": "1.0.0",
+  "Description": "操作灵感来自 Minecraft Mouse Tweaks，为 Stardew Valley 独立设计与实现。",
+  "UniqueID": "yushu.SVMouseTweaks",
+  "EntryDll": "SVMouseTweaks.dll",
+  "MinimumApiVersion": "4.0.0",
+  "Dependencies": [
+    {
+      "UniqueID": "spacechase0.GenericModConfigMenu",
+      "IsRequired": false
+    }
+  ]
+}
